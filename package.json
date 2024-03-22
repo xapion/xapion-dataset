@@ -1,0 +1,15 @@
+{
+  "name": "xapion-dataset",
+  "version": "1.0.0",
+  "description": "Public Xapion datasets repository",
+  "main": "index.js",
+  "scripts": {
+    "compile": "ts-node ./src/compile.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
